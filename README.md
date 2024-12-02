@@ -1,8 +1,7 @@
 real time chatapp with react and springboot
 ## Run the Frontend:
-1. **Install Dependencies**
    npm install
-2. npm start
+ npm start
 ## Run the Backend:
 
 1. **Create a Database**
